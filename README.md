@@ -2,6 +2,7 @@
 
 A single-page Next.js (App Router) + TypeScript + Tailwind app to practice Blackjack Basic Strategy.
 
+![Landing Page](/public/home.png)
 ## Quick Start
 
 ```bash
